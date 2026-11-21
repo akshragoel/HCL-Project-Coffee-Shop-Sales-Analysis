@@ -1,0 +1,21 @@
+Transaction_ID,Customer_ID,Date,Time,Product,Category,Quantity,Price,Discount_Percentage,Branch
+101,C01,2026-01-01,09:00,Latte,Coffee,2,180,5,A
+102,C02,2026-01-02,10:30,Cappuccino,Coffee,3,150,0,B
+103,C03,2026-01-03,12:00,Espresso,Coffee,2,100,0,A
+104,C01,2026-01-04,17:00,Brownie,Dessert,4,120,10,B
+105,C04,2026-01-05,11:00,Cold Coffee,Coffee,2,200,5,A
+106,C02,2026-01-06,15:30,Latte,Coffee,3,180,0,B
+107,C05,2026-01-07,18:00,Croissant,Bakery,5,90,5,A
+108,C03,2026-01-08,08:30,Cappuccino,Coffee,2,150,0,A
+109,C01,2026-01-09,13:00,Green Tea,Tea,2,100,0,B
+110,C06,2026-01-10,16:00,Brownie,Dessert,3,120,10,A
+111,C04,2026-01-11,10:00,Espresso,Coffee,4,100,0,B
+112,C02,2026-01-12,19:00,Latte,Coffee,2,180,5,B
+113,C07,2026-01-13,12:30,Cold Coffee,Coffee,3,200,10,A
+114,C01,2026-01-14,09:30,Croissant,Bakery,4,90,0,B
+115,C05,2026-01-15,14:00,Cappuccino,Coffee,2,150,5,A
+116,C03,2026-01-16,17:30,Brownie,Dessert,5,120,10,B
+117,C06,2026-01-17,11:30,Latte,Coffee,3,180,0,A
+118,C02,2026-01-18,15:00,Espresso,Coffee,4,100,5,B
+119,C07,2026-01-19,18:30,Green Tea,Tea,2,100,0,A
+120,C01,2026-01-20,08:00,Cold Coffee,Coffee,3,200,10,B
